@@ -4,7 +4,9 @@ THESPINDEX’s personal portfolio: web development, backend systems, server host
 
 A responsive static website built with plain HTML, CSS, and JavaScript. No framework, build step, package installation, or backend is required.
 
-[Live website](https://thespindex.github.io/portfolio/) · [Source code](https://github.com/THESPINDEX/portfolio)
+[Source code](https://github.com/THESPINDEX/portfolio)
+
+This repository is a public source-code backup. GitHub Pages hosting is disabled.
 
 ## Run locally
 
@@ -32,7 +34,7 @@ Then visit <http://localhost:4173>.
 
 ## Editing and hosting
 
-Edit `index.html` directly. Upload it to any static host, or enable GitHub Pages for the repository’s default branch and root folder.
+Edit `index.html` directly. The site currently runs locally. GitHub is used for source-code backup only.
 
 ## License
 
