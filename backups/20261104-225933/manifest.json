@@ -1,0 +1,14 @@
+{
+  "created_at": "2026-11-04T22:59:33.241417+08:00",
+  "notes": "Original site and separate redesign preview preserved; no active site files changed.",
+  "files": {
+    "index.html": {
+      "sha256": "e92b5f55428599fcdf693c864608719e78665e9ff1548b35da417d1e4d6f4ce5",
+      "bytes": 503112
+    },
+    "portfolio-redesign-preview.html": {
+      "sha256": "5d07bac4083fe02232c31f2b16bc154a45089eb67428d7448f046163544564b5",
+      "bytes": 968956
+    }
+  }
+}
