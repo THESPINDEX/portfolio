@@ -1,0 +1,12 @@
+{
+  "timestamp": "20261105-145700",
+  "branch": "backup/before-combined-20261105-145700",
+  "files": {
+    "original-design.html": {
+      "sha256": "e92b5f55428599fcdf693c864608719e78665e9ff1548b35da417d1e4d6f4ce5"
+    },
+    "redesign-preview.html": {
+      "sha256": "5aa186338c1e7282583188f3dc3e183c679fefe3bd15fe76a6c2f841443314f7"
+    }
+  }
+}
